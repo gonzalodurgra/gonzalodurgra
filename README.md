@@ -6,7 +6,8 @@
 #### 💻 Técnico en Administración de Sistemas Informáticos en Red y Desarrollo Web  
 #### 🐍 Actualmente especializándome en **Python**  
 #### 🌐 Enfocado en soluciones web, con experiencia en máquinas virtuales.  
-Actualmente trabajo en un proyecto personal con **Python** y **Angular** sobre *War Thunder*.
+Actualmente trabajo además en un proyecto personal con **Python** y **Angular** sobre <a href="https://github.com/gonzalodurgra/Proyecto_War_Thunder_Tanques">*War Thunder*</a> 🎮.
+
 
 </div>
 
